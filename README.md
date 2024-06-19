@@ -16,4 +16,9 @@
     <td>Merge Sorted Array</td>
     <td>https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150</td>
   </tr>
+  <tr>
+    <td>3.</td>
+    <td>Remove Element</td>
+    <td>https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150</td>
+  </tr>
 </table>
