@@ -1,3 +1,17 @@
+/*
+Trapping Rain Water 
+
+Approach:
+Two Pointer Approach
+
+Complexity:
+Time complexity:
+O(N)
+
+Space complexity:
+O(1)
+*/
+
 class Solution {
 
     int trap(int arr[]) {
