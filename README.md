@@ -11,4 +11,9 @@
     <td>Trapping Rain Water</td>
     <td>https://leetcode.com/problems/trapping-rain-water/description/?envType=study-plan-v2&envId=top-interview-150</td>
   </tr>
+  <tr>
+    <td>2.</td>
+    <td>Merge Sorted Array</td>
+    <td>https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150</td>
+  </tr>
 </table>
