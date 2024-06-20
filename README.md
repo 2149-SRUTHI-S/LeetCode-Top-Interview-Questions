@@ -21,4 +21,9 @@
     <td>Remove Element</td>
     <td>https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150</td>
   </tr>
+  <tr>
+    <td>4.</td>
+    <td>Remove Duplicates from Sorted Array</td>
+    <td>https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150</td>
+  </tr>
 </table>
