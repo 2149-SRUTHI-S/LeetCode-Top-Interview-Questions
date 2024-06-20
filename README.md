@@ -31,4 +31,9 @@
     <td>Majority Element</td>
     <td>https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150</td>
   </tr>
+  <tr>
+    <td>6.</td>
+    <td>Rotate Array</td>
+    <td>https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150</td>
+  </tr>
 </table>
